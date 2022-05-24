@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/bthieblot/git-badges)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/bthieblot)](https://badges.pufler.dev)
 
 
 
